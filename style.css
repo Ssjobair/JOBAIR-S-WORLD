@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+margin: 0;
+
+
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+    padding: 40px;
+
+
+}
+.half-width{
+    width: 50%;
+    padding: 2 %;
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-size: 700;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
